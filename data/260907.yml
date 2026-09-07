@@ -5,7 +5,7 @@ about:
   head: 680c088
   archived: false
   latestVersion: "v0.1.0-alpha.13"
-  collectedAt: 2026-09-07T06:08:50Z
+  collectedAt: 2026-09-07T18:29:07Z
 timeline:
   created: 2024-01-14
   lastCommit: 2026-03-14
@@ -82,7 +82,7 @@ total:
   commit: 252
 ---
 path: /home/runner/.x-repo/github.com/nickolaj-jepsen/fnug
-collectedAt: 2026-09-07T06:08:50Z
+collectedAt: 2026-09-07T18:29:07Z
 loc:
   Rust:
     code: 11472
@@ -118,7 +118,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:08:51+00:00
+  collectedAt: 2026-09-07T18:29:08+00:00
   platform:
     darwin/arm64:
       name:  fnug-0.1.0a13-py3-none-macosx_11_0_arm64.whl
