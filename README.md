@@ -14,15 +14,15 @@ x install fnug
 
 ## Code insight
 
-Total: **11,929** lines of code across **63** files in the top 5 languages.
+Total: **39,310** lines of code across **119** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,472 | 443 | 1,393 | 52 |
-| Python | 240 | 3 | 49 | 2 |
-| Toml | 122 | 0 | 14 | 4 |
-| Nix | 95 | 0 | 13 | 1 |
-| Markdown | 0 | 441 | 215 | 4 |
+| Rust | 37,560 | 817 | 3,910 | 106 |
+| Python | 1,088 | 9 | 264 | 6 |
+| Json | 405 | 0 | 0 | 1 |
+| Toml | 163 | 4 | 18 | 5 |
+| Nix | 81 | 1 | 10 | 1 |
 
 ## Source
 
@@ -31,9 +31,9 @@ Total: **11,929** lines of code across **63** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.0-alpha.13` (2026-03-14)
-- **Last commit**: 2026-03-14
-- **Assets in release**: 7
+- **Latest**: `v0.1.0-alpha.14` (2026-09-27)
+- **Last commit**: 2026-09-27
+- **Assets in release**: 5
 
 ## Popularity
 
@@ -41,30 +41,28 @@ Total: **11,929** lines of code across **63** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 2 · **Open PRs**: 6 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 252
+- **Releases**: 23 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 536
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last180d | 2026-03-31 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 360d | 2025-10-02 | 13 | 1 | 6 | 0 | 0 | 94 |
-| last720d | 2024-10-07 | 14 | 2 | 6 | 0 | 0 | 121 |
+| 30d | 2026-08-29 | 1 | 7 | 0 | 0 | 0 | 284 |
+| last60d | 2026-07-30 | 1 | 7 | 0 | 0 | 0 | 284 |
+| 90d | 2026-06-30 | 1 | 7 | 0 | 0 | 0 | 284 |
+| last180d | 2026-04-01 | 1 | 7 | 0 | 0 | 0 | 284 |
+| 360d | 2025-10-03 | 14 | 8 | 0 | 0 | 0 | 378 |
+| last720d | 2024-10-08 | 15 | 9 | 0 | 0 | 0 | 405 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fnug-0.1.0a13-py3-none-macosx_11_0_arm64.whl](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.13/fnug-0.1.0a13-py3-none-macosx_11_0_arm64.whl) | 3.0 MiB | `native/darwin/arm64` |
-| [fnug-0.1.0a13.tar.gz](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.13/fnug-0.1.0a13.tar.gz) | 745.9 KiB | `native/unknown` |
-| [fnug-linux-aarch64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.13/fnug-linux-aarch64) | 7.6 MiB | `native/linux/arm64` |
-| [fnug-linux-x86_64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.13/fnug-linux-x86_64) | 8.3 MiB | `native/linux/x64` |
-| [fnug-macos-aarch64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.13/fnug-macos-aarch64) | 7.1 MiB | `native/darwin/arm64` |
-| [fnug-macos-x86_64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.13/fnug-macos-x86_64) | 7.4 MiB | `native/darwin/x64` |
-| [fnug-windows-x86_64.exe](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.13/fnug-windows-x86_64.exe) | 8.8 MiB | `native/win/x64` |
+| [fnug-linux-aarch64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.14/fnug-linux-aarch64) | 9.1 MiB | `native/linux/arm64` |
+| [fnug-linux-x86_64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.14/fnug-linux-x86_64) | 10.1 MiB | `native/linux/x64` |
+| [fnug-macos-aarch64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.14/fnug-macos-aarch64) | 8.6 MiB | `native/darwin/arm64` |
+| [fnug-macos-x86_64](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.14/fnug-macos-x86_64) | 9.0 MiB | `native/darwin/x64` |
+| [SHA256SUMS](https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.14/SHA256SUMS) | 338 B | `other` |
 
 ## Improve this data
 
@@ -75,4 +73,4 @@ Install metadata for fnug lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:25:15Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:35:49Z._
