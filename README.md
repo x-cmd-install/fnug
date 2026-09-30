@@ -47,12 +47,12 @@ Total: **39,310** lines of code across **119** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 7 | 0 | 0 | 0 | 284 |
-| last60d | 2026-07-31 | 1 | 7 | 0 | 0 | 0 | 284 |
-| 90d | 2026-07-01 | 1 | 7 | 0 | 0 | 0 | 284 |
-| last180d | 2026-04-02 | 1 | 7 | 0 | 0 | 0 | 284 |
-| 360d | 2025-10-04 | 14 | 8 | 0 | 0 | 0 | 378 |
-| last720d | 2024-10-09 | 15 | 9 | 0 | 0 | 0 | 405 |
+| 30d | 2026-08-31 | 1 | 7 | 0 | 0 | 0 | 284 |
+| last60d | 2026-08-01 | 1 | 7 | 0 | 0 | 0 | 284 |
+| 90d | 2026-07-02 | 1 | 7 | 0 | 0 | 0 | 284 |
+| last180d | 2026-04-03 | 1 | 7 | 0 | 0 | 0 | 284 |
+| 360d | 2025-10-05 | 14 | 8 | 0 | 0 | 0 | 378 |
+| last720d | 2024-10-10 | 15 | 9 | 0 | 0 | 0 | 405 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for fnug lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:56:27Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:52:22Z._
