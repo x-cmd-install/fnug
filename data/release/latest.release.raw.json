@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10597528,
       "digest": "sha256:954396f6fe0155b74b97e90b87238d569aacd45261c5395d30933cee0f476cf9",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-27T18:48:41Z",
       "updated_at": "2026-09-27T18:48:42Z",
       "browser_download_url": "https://github.com/nickolaj-jepsen/fnug/releases/download/v0.1.0-alpha.14/fnug-linux-x86_64"
